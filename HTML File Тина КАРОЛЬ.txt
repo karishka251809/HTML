@@ -1,0 +1,21 @@
+ <html>
+ <head>
+ <title> Tina Karol <title>
+ </head> 
+     <body>
+      </body> 
+</head>
+   <body>
+      <h1>Tina Karol</h1>
+<img src=https://www.rbc.ua/static/ckef/img/140375836_162100162075667_7047615643200062059_n.jpg
+<p> Tina is a singer. <br> Her birthday is on January 25, 1985,she is 38 years old.</p> <h3>
+<h3> Tina's favorite things to do:</h3>
+<ol>
+<li>Singing</li>
+<li>gardening<li>
+</ol>
+ <a href="https://www.instagram.com/tina_karol/?utm_source=ig_web_button_share_sheet&igshid=OGQ5ZDc2ODk2ZA==
+</body>
+</html>
+
+ 
